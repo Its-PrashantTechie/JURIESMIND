@@ -45,7 +45,7 @@ query either uploaded PDF.
 - `embeddings.py` — embedding model and FAISS index creation
 - `search.py` — vector retrieval and relevance threshold
 - `citation.py` — quote verification and citation formatting
-- `frontendui.jpeg`, `frontendui2.jpeg`, `frontendui3.jpeg` — frontend reference images
+-
 
 ## Current checkout note
 
