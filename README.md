@@ -1,4 +1,4 @@
-JURIES-MIND# Legal AI Assistant
+JURIES-MIND: Legal AI Assistant
 
 A Streamlit prototype for reviewing Indian criminal-law documents. Upload a
 Bharatiya Nyaya Sanhita (BNS) PDF and a case or FIR PDF to classify supported
